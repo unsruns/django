@@ -21,7 +21,7 @@ Django documentation contents
     internals/index
 
 Indices, glossary and tables
-============================
+================================
 
 * :ref:`genindex`
 * :ref:`modindex`
